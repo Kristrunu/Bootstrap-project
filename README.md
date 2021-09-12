@@ -5,4 +5,4 @@ I made a Bootstrap page that sells plants online called FLÓRA. I made two layou
 I used a nav bar, hero section, containers, cards, icons and forms from Bootstrap and the website is fully responsive.
 The only thing I did not use from Bootstrap where the background colors. I used css to add the colors I wanted.
 
-Live link: 
+Live link: https://kristrunu.github.io/Bootstrap-project/
